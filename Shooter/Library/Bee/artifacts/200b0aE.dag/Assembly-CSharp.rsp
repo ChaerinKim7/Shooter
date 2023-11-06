@@ -347,6 +347,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/BulletBehavior.cs"
 "Assets/Scripts/EnemyOneBehavior.cs"
+"Assets/Scripts/EnemyTwoBehavior.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/PlayerBehavior.cs"
 -langversion:9.0
